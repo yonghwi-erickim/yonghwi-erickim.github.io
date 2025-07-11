@@ -22,12 +22,12 @@ repository               : "yonghwi-erickim/yonghwi-erickim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "bio_hwi.jpeg"
+  name             : "Yonghwi Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph. D. on Wireless Communications"
+  location         : "Seoul"
+  employer         : "Yonsei University"
   uri              : # URL
   email            : "none@example.org" 
 
