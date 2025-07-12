@@ -3,7 +3,7 @@ title: "Partition-based RIS-assisted Multiple Access: NOMA Decoding Order Perspe
 collection: publications
 category: manuscripts
 permalink: /publication/RIS_TVT
-excerpt: 'In this paper, we propose a closed-form resource allocation called partition-based multiple access (MA), which simultaneously utilizes both a reconfigurable intelligent surface (RIS) and non-orthogonal multiple access (NOMA) to reduce processing overhead and transmit power. The RIS can tune the mmWave signal and reduce the downlink transmit power, and NOMA achieves a relatively higher spectral efficiency than other MA methods. The integration of the RIS and NOMA, thus, can be a powerful solution. Previous studies have yet to obtain a closed-form solution for both the beam tuning settings and the decoding order in low complexity in the conventional RIS-NOMA. The proposed partition-based MA method, however, divides and arranges the array elements of the RIS to generate a fine beam for NOMA communications. We compare the transmit power reduction of the proposed method with the transmit power reduction of time-sharing and decode-and-forward relay. To confirm the feasibility of the integration, we also derive the criteria for MA mode selection.
+excerpt: 'This paper is about the reconfigurable intelligent surface (RIS), with low complexity solution for non-orthogonal multiple access (NOMA)'
 '
 date: 2022-05-25
 venue: 'IEEE Transactions on Vehicular Technology'
