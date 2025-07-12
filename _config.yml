@@ -22,7 +22,7 @@ repository               : "yonghwi-erickim/yonghwi-erickim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /assets/bio_kyh.jpeg
+  avatar           : "assets/bio_kyh.jpeg"
   name             : "Yonghwi Kim"
   pronouns         : # example: "she/her"  
   bio              : "Ph. D. on Wireless Communications"
