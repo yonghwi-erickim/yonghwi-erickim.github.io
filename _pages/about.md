@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at Yonsei University, where I also earned my Ph.D. in EE/CS as a member of the [intelligent networking lab. (INL)](cbchae.org). My research focuses on intelligent, machine learning-driven systems and low-complexity signal processing for next-generation wireless networks, covering both protocol design and physical-layer techniques.
+I am a postdoctoral researcher at Yonsei University, where I also earned my Ph.D. in EE/CS as a member of the [intelligent networking lab. (INL)](https://cbchae.org). My research focuses on intelligent, machine learning-driven systems and low-complexity signal processing for next-generation wireless networks, covering both protocol design and physical-layer techniques.
 
 
 My interests span radio resource management (RRM), PHY/MAC/RRC protocols, and emerging technologies such as full-duplex (FD) and future multiple-input and multiple-output (MIMO) systems. I solve practical communication problems through mathematical optimization, algorithmic modeling, and AI, and validate the solutions through proof-of-concept (PoC) prototypes and system-level simulations (SLS).
