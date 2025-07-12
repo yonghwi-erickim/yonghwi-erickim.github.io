@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/RIS_TVT
 excerpt: 'This paper is about the reconfigurable intelligent surface (RIS), with low complexity solution for non-orthogonal multiple access (NOMA)'
-'
 date: 2022-05-25
 venue: 'IEEE Transactions on Vehicular Technology'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
