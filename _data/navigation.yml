@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Achievements"
-    url: /achievements/    
+  #- title: "Achievements"
+  #  url: /achievements/    
 
   #- title: "Teaching"
   #  url: /teaching/    
