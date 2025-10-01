@@ -17,9 +17,9 @@ Education
 Work experience
 ======
 
-* Fall 2025: Research Assistant
+* Fall 2025: Post-doctoral Researcher
   * Yonsei University
-  * Duties included: AI Full-duplex
+  * Duties included: AI-RAN for 6G
   * Supervisor: Professor Chan-Byoung Chae *(IEEE Fellow)*
 
 Skills
