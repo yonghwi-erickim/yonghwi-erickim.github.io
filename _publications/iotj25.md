@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/iotj25
 excerpt: 'AI-enhanced non-linear SIC for IoT devices with zero-IF transcivers'
 date: 2025-11-01
-venue: 'to appear in IEEE Internet of Things Journal'
+venue: 'IEEE Internet of Things Journal(to appear, Accepted)'
 citation: 'H.Lee, Y. Kim, <i>et al.,</i> (2025). &quot;Low Complexity Frequency Domain Nonlinear Self-Interference Cancellation for Flexible Duplex.&quot; <i>IEEE Internet of Things J.</i>'
 ---
 
