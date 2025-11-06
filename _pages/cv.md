@@ -20,7 +20,12 @@ Work experience
 * Fall 2025: Post-doctoral Researcher
   * Yonsei University
   * Duties included: AI-RAN for 6G
-  * Supervisor: Professor Chan-Byoung Chae *(IEEE Fellow)*
+  * Supervisor: Prof. Chan-Byoung Chae *(IEEE Fellow)*
+ 
+* Fall 2025: Post-doctoral Researcher (Visiting)
+  * HKUST
+  * Duties included: Foundation Models for 6G
+  * Supervisor: Prof. Jun Zhang *(IEEE Fellow)*
 
 Skills
 ======
