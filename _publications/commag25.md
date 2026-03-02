@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/commag25
 excerpt: 'Near-field, integrated sensing and communications (ISAC)'
 date: 2025-12-01
-venue: 'submitted to IEEE Communications Magazine (Major Revision)'
+venue: 'IEEE Communications Magazine (Accepted)'
 paperurl: 'https://arxiv.org/pdf/2508.18810'
 citation: 'Y. Kim, <i>et al.,</i> (2025). &quot;Near-Field Challenges in Ultra-Wideband ISAC: Beamforming Strategies and System Insights.&quot; <i>arXiv</i> 2508.18810'
 ---
