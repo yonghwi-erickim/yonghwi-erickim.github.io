@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/wcl26
 excerpt: 'Over-the-air (OTA), integrated sensing and communications (ISAC)'
-date: 2025-12-01
+date: 2026-02-18
 venue: 'submitted to IEEE Wireless Communications Letter'
 paperurl: ' '
 citation: 'Y. Kim, <i>et al.,</i> (2026). &quot;Pilot Allocation for OFDM Uplink ISAC under RF
